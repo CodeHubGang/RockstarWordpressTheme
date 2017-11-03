@@ -2,4 +2,6 @@
 RockStar Wordpress theme 
 
 
-# Coming Soon
+Download the file and upload to your WP Website.
+
+@CodeHubGang
